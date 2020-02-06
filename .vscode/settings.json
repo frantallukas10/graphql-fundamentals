@@ -1,0 +1,5 @@
+{
+  "npm-scripts.showStartNotification": false,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true
+}
